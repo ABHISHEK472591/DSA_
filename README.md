@@ -27,3 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/ABHISHEK472591/DSA_/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
 #complete
+
+
+#new project
